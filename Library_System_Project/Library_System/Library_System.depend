@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1691950620 source:e:\c program\library_system_project\library_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library_System.h"
+
+1691955965 e:\c program\library_system_project\library_system\library_system.h
+	"Platform_Types.h"
+
+1691928391 e:\c program\library_system_project\library_system\platform_types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1691992608 source:e:\c program\library_system_project\library_system\library_system.c
+	"Library_System.h"
+
